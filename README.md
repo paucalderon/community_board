@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 * [x] Buttons or links to related resources are on each card component
 * [x] The site is responsive for both desktop and mobile formats
 
-## The following **additional** features are implemented:
+The following **additional** features are implemented:
 
 * [x] Added hover effects to event cards and buttons to make the interface more interactive.
 
