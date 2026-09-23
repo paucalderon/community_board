@@ -19,10 +19,14 @@ The following **required** functionality is completed:
   * [x] The cards are displayed in an organized format using a grid
   * [x] Each card includes information about the event, including its name, description, location, date, and time
 
-The following **stretch** features are implemented:
+The following **optional** features are implemented:
 
 * [x] Buttons or links to related resources are on each card component
 * [x] The site is responsive for both desktop and mobile formats
+
+## The following **additional** features are implemented:
+
+* [x] Added hover effects to event cards and buttons to make the interface more interactive.
 
 ## Video Walkthrough
 
