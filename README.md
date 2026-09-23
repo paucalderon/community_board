@@ -36,7 +36,7 @@ GIF created with QuickTime Player and FFmpeg
 
 ## Notes
 
-The main challenges I encountered were learning how to create a reusable React component and pass different event information to each card using props. I also worked on using CSS Grid and media queries to create a responsive layout that works across desktop and mobile screen sizes.
+The main challenges I encountered were learning how to create a reusable React component and pass different event information to each card using props. I also worked on using CSS Grid to organize the event cards and make the layout work well on different screen sizes.
 
 ## License
 
